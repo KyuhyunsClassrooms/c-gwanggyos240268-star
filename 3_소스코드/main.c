@@ -26,6 +26,7 @@
 
         struct Book library[100];
         int count = 0;
+}
 */
 
 
